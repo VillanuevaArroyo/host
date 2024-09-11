@@ -1,2 +1,2 @@
 # host
-Host practica
+Host para practicas de la materia de programacion web
