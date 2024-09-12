@@ -1,5 +1,5 @@
 # Host
-<marquee behavior="scroll" direction="left">
+<marquee behavior="slide" direction="left">
   <span style="color: red;">T</span>
   <span style="color: green;">q</span>
   <span style="color: blue;">m</span>
