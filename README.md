@@ -8,7 +8,6 @@
   <span style="color: cyan;">a</span>
   <span style="color: magenta;">n</span>
   <span style="color: black;">i</span>
-  <span style="color: lime;">s</span>
   <span style="color: pink;">,</span>
   <span style="color: teal;"> </span>
   <span style="color: violet;">e</span>
