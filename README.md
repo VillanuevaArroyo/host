@@ -1,5 +1,5 @@
 # Host
-<marquee behavior="scroll" direction="right">
+<marquee behavior="scroll" direction="left">
   <span style="color: red;">H</span>
   <span style="color: green;">o</span>
   <span style="color: blue;">s</span>
