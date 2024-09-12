@@ -7,7 +7,7 @@
   <span style="color: purple;">D</span>
   <span style="color: cyan;">a</span>
   <span style="color: magenta;">n</span>
-  <span style="color: yellow;">i</span>
+  <span style="color: black;">i</span>
   <span style="color: lime;">s</span>
   <span style="color: pink;">,</span>
   <span style="color: teal;"> </span>
