@@ -33,7 +33,7 @@
   <span style="color: green;">d</span>
   <span style="color: orange;"> </span>
   <span style="color: red;">&lt;</span>
-  <span style="color: green;">3</span>
+  <span style="color: cyan;">3</span>
 </marquee>
 <br><br>
 <div style="text-align: center;">
