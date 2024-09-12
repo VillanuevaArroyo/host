@@ -30,6 +30,9 @@
   <span style="color: cyan;">b</span>
   <span style="color: magenta;">a</span>
   <span style="color: orange;"> </span>
+  <span style="color: red;">x</span>
+  <span style="color: green;">d</span>
+  <span style="color: orange;"> </span>
   <span style="color: red;">&lt;</span>
   <span style="color: green;">3</span>
 </marquee>
