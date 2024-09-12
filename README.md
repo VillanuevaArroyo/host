@@ -1,13 +1,147 @@
 # Host
 <marquee behavior="scroll" direction="right">
-  <p>Host para prácticas de la materia de Programación Web</p>
-  <p>Villanueva Arroyo Carlos Sebastian</p>
-  <p>Grupo: 5501</p>
-  <p>Profesora: Wong Cohen Raquel Xochitl</p>
+  <span style="color: red;">H</span>
+  <span style="color: green;">o</span>
+  <span style="color: blue;">s</span>
+  <span style="color: orange;">t</span>
+  <span style="color: purple;"> </span>
+  <span style="color: cyan;">p</span>
+  <span style="color: magenta;">a</span>
+  <span style="color: yellow;">r</span>
+  <span style="color: lime;">a</span>
+  <span style="color: pink;"> </span>
+  <span style="color: teal;">p</span>
+  <span style="color: violet;">r</span>
+  <span style="color: lightblue;">á</span>
+  <span style="color: gold;">c</span>
+  <span style="color: darkgreen;">t</span>
+  <span style="color: coral;">i</span>
+  <span style="color: navy;">c</span>
+  <span style="color: olive;">a</span>
+  <span style="color: chocolate;">s</span>
+  <span style="color: indigo;"> </span>
+  <span style="color: darkred;">d</span>
+  <span style="color: darkorange;">e</span>
+  <span style="color: crimson;"> </span>
+  <span style="color: green;">l</span>
+  <span style="color: dodgerblue;">a</span>
+  <span style="color: purple;"> </span>
+  <span style="color: lime;">m</span>
+  <span style="color: cyan;">a</span>
+  <span style="color: magenta;">t</span>
+  <span style="color: pink;">e</span>
+  <span style="color: violet;">r</span>
+  <span style="color: teal;">i</span>
+  <span style="color: gold;">a</span>
+  <span style="color: darkgreen;"> </span>
+  <span style="color: coral;">d</span>
+  <span style="color: navy;">e</span>
+  <span style="color: olive;"> </span>
+  <span style="color: chocolate;">P</span>
+  <span style="color: indigo;">r</span>
+  <span style="color: darkred;">o</span>
+  <span style="color: darkorange;">g</span>
+  <span style="color: crimson;">r</span>
+  <span style="color: green;">a</span>
+  <span style="color: dodgerblue;">m</span>
+  <span style="color: purple;">a</span>
+  <span style="color: lime;">c</span>
+  <span style="color: cyan;">i</span>
+  <span style="color: magenta;">ó</span>
+  <span style="color: pink;">n</span>
+  <span style="color: violet;"> </span>
+  <span style="color: teal;">W</span>
+  <span style="color: gold;">e</span>
+  <span style="color: darkgreen;">b</span><br>
+
+  <span style="color: cyan;">V</span>
+  <span style="color: magenta;">i</span>
+  <span style="color: yellow;">l</span>
+  <span style="color: lime;">l</span>
+  <span style="color: pink;">a</span>
+  <span style="color: teal;">n</span>
+  <span style="color: violet;">u</span>
+  <span style="color: gold;">e</span>
+  <span style="color: coral;">v</span>
+  <span style="color: indigo;">a</span>
+  <span style="color: orange;"> </span>
+  <span style="color: red;">A</span>
+  <span style="color: blue;">r</span>
+  <span style="color: purple;">r</span>
+  <span style="color: green;">o</span>
+  <span style="color: cyan;">y</span>
+  <span style="color: pink;">o</span>
+  <span style="color: gold;"> </span>
+  <span style="color: lime;">C</span>
+  <span style="color: violet;">a</span>
+  <span style="color: magenta;">r</span>
+  <span style="color: teal;">l</span>
+  <span style="color: purple;">o</span>
+  <span style="color: crimson;">s</span>
+  <span style="color: gold;"> </span>
+  <span style="color: pink;">S</span>
+  <span style="color: blue;">e</span>
+  <span style="color: orange;">b</span>
+  <span style="color: green;">a</span>
+  <span style="color: cyan;">s</span>
+  <span style="color: magenta;">t</span>
+  <span style="color: violet;">i</span>
+  <span style="color: red;">a</span>
+  <span style="color: gold;">n</span><br>
+
+  <span style="color: lime;">G</span>
+  <span style="color: violet;">r</span>
+  <span style="color: orange;">u</span>
+  <span style="color: gold;">p</span>
+  <span style="color: teal;">o</span>
+  <span style="color: coral;">:</span>
+  <span style="color: indigo;"> </span>
+  <span style="color: crimson;">5</span>
+  <span style="color: yellow;">5</span>
+  <span style="color: pink;">0</span>
+  <span style="color: cyan;">1</span><br>
+
+  <span style="color: magenta;">P</span>
+  <span style="color: violet;">r</span>
+  <span style="color: teal;">o</span>
+  <span style="color: pink;">f</span>
+  <span style="color: cyan;">e</span>
+  <span style="color: gold;">s</span>
+  <span style="color: darkgreen;">o</span>
+  <span style="color: coral;">r</span>
+  <span style="color: yellow;">a</span>
+  <span style="color: purple;">:</span>
+  <span style="color: violet;"> </span>
+  <span style="color: navy;">W</span>
+  <span style="color: orange;">o</span>
+  <span style="color: gold;">n</span>
+  <span style="color: darkgreen;">g</span>
+  <span style="color: purple;"> </span>
+  <span style="color: teal;">C</span>
+  <span style="color: violet;">o</span>
+  <span style="color: crimson;">h</span>
+  <span style="color: yellow;">e</span>
+  <span style="color: pink;">n</span>
+  <span style="color: green;"> </span>
+  <span style="color: navy;">R</span>
+  <span style="color: coral;">a</span>
+  <span style="color: indigo;">q</span>
+  <span style="color: darkgreen;">u</span>
+  <span style="color: violet;">e</span>
+  <span style="color: magenta;">l</span>
+  <span style="color: gold;"> </span>
+  <span style="color: lime;">X</span>
+  <span style="color: orange;">o</span>
+  <span style="color: purple;">c</span>
+  <span style="color: cyan;">h</span>
+  <span style="color: magenta;">i</span>
+  <span style="color: violet;">t</span>
+  <span style="color: navy;">l</span>
 </marquee>
 <br><br>
 <div style="text-align: center;">
   <video width="200" controls style="max-width: 100%;">
     <source src="https://github.com/user-attachments/assets/63a9b68f-86c8-47f3-ae98-536e47921446" type="video/mp4">
+    Tu navegador no soporta la etiqueta de video.
   </video>
 </div>
